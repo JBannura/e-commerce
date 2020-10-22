@@ -26,6 +26,9 @@ def test_json():
                         
                         elif idx == 1:
                             print(f"Valor do produto: {dados}")    
+
+if __name__ == "__main__":
+    test_json()
                 
 
   
