@@ -1,0 +1,55 @@
+{
+    "1": {
+        "loja": "Americanas",
+        "pedidos": {
+            "1": [
+                "Notebook Lenovo",
+                "R$ 3,399.99"
+            ],
+            "2": [
+                "Smart TV Samsung",
+                "R$ 1,199.99"
+            ],
+            "3": [
+                "iPhone 34",
+                "R$ 14.999,99"
+            ]
+        }
+    },
+
+    "2": {
+        "loja": "Magalu",
+        "pedidos": {
+            "1": [
+                "Xiaomi Mi 8",
+                "R$ 1.199,99"
+            ],
+            "2": [
+                "Lavadoura de Roupas 90kg",
+                "R$ 1.599,99"
+            ],
+            "3":[
+                "Ar Condicionado Split Agratto 9000 BTUs",
+                "R$ 1.799,99"
+            ]
+        }
+    },
+
+    "3": {
+        "loja": "Mercado Livre",
+        "pedidos": {
+            "1": [
+                "Guitarra Epiphone SG",
+                "R$ 1.499,99"
+            ],
+            "2": [
+                "Fifa 21",
+                "R$ 299,99"
+            ],
+            "3":[
+                "Camisa do Grêmio Temporada 1 2020",
+                "R$ 199,99"
+            ]
+        }
+    }
+}

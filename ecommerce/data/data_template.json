@@ -1,0 +1,19 @@
+{
+    "ID": {
+        "loja": "",
+        "pedidos": {
+            "1": [
+                "Nome",
+                "Preco"
+            ],
+            "2": [
+                "Nome",
+                "Preco"
+            ],
+            "3":[
+                "Nome",
+                "Preco"
+            ]
+        }
+    }
+}
