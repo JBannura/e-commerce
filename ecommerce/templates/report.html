@@ -42,6 +42,11 @@
         text-decoration: underline overline;
         }
 
+        .button {
+        margin: 50px 2px;
+        font-size: 25px;
+        }
+
         </style>
         
     </head>
@@ -55,11 +60,26 @@
             <a href="/report">- Relatório</a>
         </div>
 
-        <div class="center">
-        
-            <h1> Relatório dos seus pedidos</h1>
+        <form method='get'>
+            {% csrf_token %}
+            <div class="center">
+            
+                <h1> Relatório dos seus pedidos</h1>
 
-        </div>
+                <a href="http://localhost:8000/store_report">
+                    <button class="button">Relatorio Loja</button>
+                </a>
+
+                <a href="http://localhost:8000/price_report">
+                    <button class="button">Relatorio Preco</button>
+                </a> 
+
+                <a href="http://localhost:8000/date_report">
+                    <button class="button">Relatorio Data</button>
+                </a> 
+
+            </div>
+        </form>
     </body>
 
 </html>
