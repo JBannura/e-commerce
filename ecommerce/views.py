@@ -11,7 +11,7 @@ def request_page(request):
     if store != 'Empty' and len(store) > 0:
         models.add_pedido(store[0])
         
-    return render(request, 'D:/Desktop/Pucrs/2020_2/ProjArq/MVC-django/e-commerce/ecommerce/templates/register.html')
+    return render(request, 'C:/Users/Usuario/Desktop/PUCRS/5 Semestre/e-commerce/ecommerce/templates/register.html')
 
 def test(request_):
     data_file = open('C:/Users/Usuario/Desktop/PUCRS/5 Semestre/e-commerce/ecommerce/test.txt', 'r')
