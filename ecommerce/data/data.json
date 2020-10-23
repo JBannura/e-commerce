@@ -1,5 +1,5 @@
 {
-    "1": {
+    "americanas": {
         "loja": "Americanas",
         "pedidos": {
             "1": [
@@ -17,7 +17,7 @@
         }
     },
 
-    "2": {
+    "magalu": {
         "loja": "Magalu",
         "pedidos": {
             "1": [
@@ -35,7 +35,7 @@
         }
     },
 
-    "3": {
+    "mercadolivre": {
         "loja": "Mercado Livre",
         "pedidos": {
             "1": [
@@ -47,7 +47,7 @@
                 "R$ 299,99"
             ],
             "3":[
-                "Camisa do Grêmio Temporada 1 2020",
+                "Camisa do Gremio Temporada 1 2020",
                 "R$ 199,99"
             ]
         }
