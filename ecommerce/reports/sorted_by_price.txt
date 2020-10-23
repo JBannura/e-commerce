@@ -1,0 +1,9 @@
+Loja: Mercado Livre Produto: Camisa do Gremio Temporada 1 2020 Preco: 199.99 Data: 22/12/2020
+Loja: Mercado Livre Produto: Fifa 21 Preco: 299.99 Data: 19/12/2020
+Loja: Americanas Produto: Smart TV Samsung Preco: 1199.99 Data: 24/11/2020
+Loja: Magalu Produto: Xiaomi Mi 8 Preco: 1199.99 Data: 21/11/2020
+Loja: Mercado Livre Produto: Guitarra Epiphone SG Preco: 1499.99 Data: 18/12/2020
+Loja: Magalu Produto: Lavadora de Roupas 90kg Preco: 1599.99 Data: 23/11/2020
+Loja: Magalu Produto: Ar Condicionado Split Agratto 9000 BTUs Preco: 1799.99 Data: 25/11/2020
+Loja: Americanas Produto: Notebook Lenovo Preco: 3399.99 Data: 22/11/2020
+Loja: Americanas Produto: iPhone 34 Preco: 14999.99 Data: 26/11/2020
